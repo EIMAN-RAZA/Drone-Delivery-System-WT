@@ -1,4 +1,7 @@
 # Drone-Delivery-System-WT
+Technology Stack
+MERN: MongoDB, Express, React, Node
+
 Functional Requirements
 1. Backend (Reuse + Improve)
    Includes authentication, APIs, and database.
