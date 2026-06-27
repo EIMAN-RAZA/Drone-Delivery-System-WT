@@ -1,5 +1,5 @@
 # Drone-Delivery-System-WT
-Technology Stack - 
+Technology Stack: 
 
 MERN: MongoDB, Express, React, Node
 
